@@ -52,8 +52,10 @@ Ways of organizing and storing data so it can be used efficiently.
 - **[Hash Tables](Data_Structures/HASH%20TABLES.md)** — Key-value storage that gives near-instant (O(1) average) lookup, insertion, and deletion.
 
 ---
-- Built with ❤️ for students, developers, and lifelong learners.
 
 ## 🎯 Purpose
 
 This repo is a personal learning project built while studying algorithms and data structures. It's meant to reinforce my own understanding by writing things out clearly — and hopefully make these topics a bit easier for anyone else learning them too.
+
+---
+- Built with ❤️ for students, developers, and lifelong learners.
