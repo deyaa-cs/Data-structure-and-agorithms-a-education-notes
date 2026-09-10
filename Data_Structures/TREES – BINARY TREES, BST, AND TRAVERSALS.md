@@ -108,8 +108,8 @@ END CLASS
     └───┬───┘ └───────┘
     ┌───┴───┐
     │       │
-┌───▼──┐ ┌─▼────┐
-│   4        │ │   5       │
+┌───▼──┐   ┌─▼────┐
+│   4   │ │   5  │
 └───────┘  └──────┘
 
 Notice: Node 2 has two children (4 and 5). Node 3 has none (leaf). Node 1 has two children. Maximum children per node = 2.
@@ -139,9 +139,9 @@ Not all binary trees are the same. Here are the important variations:
     │  2  │ │  3  │
     └──┬──┘ └──────┘
    ┌───┴───┐
-   │             │
+   │       │
 ┌──▼──┐ ┌─▼─┐
-│  4      │ │  5    │
+│  4 │ │  5    │
 └─────┘ └─────┘
 
 All nodes have 0 or 2 children. ✅
@@ -172,7 +172,7 @@ All levels filled except the last, which is left-filled. ✅
 └─┬─┘
   │
 ┌─▼─┐
-│ 2    │
+│ 2   │
 └─┬──┘
   │
 ┌─▼─┐
@@ -209,7 +209,7 @@ For EVERY node in a BST:
     ┌───┴───┐ ┌───┴───┐
     │       │ │       │
 ┌───▼───┐ ┌─▼─────┐ ┌─▼─────┐
-│  20        │ │  40       │ │  60      │ │  80   │
+│  20   │ │  40       │ │  60      │ │  80   │
 └───────┘ └───────┘ └───────┘ └───────┘
 
 **Check it:**
