@@ -1,4 +1,4 @@
-# 📚 AlgoNotes
+# 📚  Data-structure-and-agorithms-a-education-notes
 
 Personal notes and code examples covering core Data Structures & Algorithms — written while learning, organized by topic, and shared for anyone else on the same path.
 
